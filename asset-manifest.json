@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fundeploy/static/css/main.a617e044.chunk.css",
+    "main.js": "/fundeploy/static/js/main.ed80360e.chunk.js",
+    "main.js.map": "/fundeploy/static/js/main.ed80360e.chunk.js.map",
+    "runtime-main.js": "/fundeploy/static/js/runtime-main.5b57d301.js",
+    "runtime-main.js.map": "/fundeploy/static/js/runtime-main.5b57d301.js.map",
+    "static/js/2.665583ba.chunk.js": "/fundeploy/static/js/2.665583ba.chunk.js",
+    "static/js/2.665583ba.chunk.js.map": "/fundeploy/static/js/2.665583ba.chunk.js.map",
+    "static/js/3.8dc9348f.chunk.js": "/fundeploy/static/js/3.8dc9348f.chunk.js",
+    "static/js/3.8dc9348f.chunk.js.map": "/fundeploy/static/js/3.8dc9348f.chunk.js.map",
+    "index.html": "/fundeploy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/fundeploy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.665583ba.chunk.js.LICENSE.txt": "/fundeploy/static/js/2.665583ba.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fundeploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b57d301.js",
+    "static/js/2.665583ba.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ed80360e.chunk.js"
+  ]
+}
